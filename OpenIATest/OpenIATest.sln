@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIATest", "OpenIATest\OpenIATest.csproj", "{066185BD-E0BB-4EAE-BAA0-7A9EAC7CA357}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{066185BD-E0BB-4EAE-BAA0-7A9EAC7CA357}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{066185BD-E0BB-4EAE-BAA0-7A9EAC7CA357}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{066185BD-E0BB-4EAE-BAA0-7A9EAC7CA357}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{066185BD-E0BB-4EAE-BAA0-7A9EAC7CA357}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC86DBA3-B254-412B-80D8-FBB92AB1BCD6}
+	EndGlobalSection
+EndGlobal
